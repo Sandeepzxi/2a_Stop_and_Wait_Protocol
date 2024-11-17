@@ -1,7 +1,6 @@
-# 2a_Stop_and_Wait_Protocol
-
-### Name: Sandeep S
-### Reg.NO: 212223220092
+# 2a Stop and Wait Protocol
+## Name: Sandeep S
+## Reg.NO: 212223220092
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
